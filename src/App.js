@@ -101,8 +101,8 @@ const state = {
 }
 
 const stat = {
-  labels: ['January', 'February', 'March',
-           'April', 'May'],
+  labels: ['one', 'two', 'three',
+           'four', 'five'],
   datasets: [
     {
       label: 'Rainfall',
